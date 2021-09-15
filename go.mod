@@ -1,3 +1,3 @@
-module github.com/pellared/gopherconpl-opentelemetry-go
+module github.com/pellared/gopherconpl-goyek
 
 go 1.17

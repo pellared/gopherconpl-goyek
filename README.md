@@ -1,6 +1,6 @@
 # goyek - Create build pipelines in Go
 
-[![build](https://github.com/pellared/gopherconpl-opentelemetry-go/actions/workflows/build.yml/badge.svg)](https://github.com/pellared/gopherconpl-opentelemetry-go/actions/workflows/build.yml)
+[![build](https://github.com/pellared/gopherconpl-goyek/actions/workflows/build.yml/badge.svg)](https://github.com/pellared/gopherconpl-goyek/actions/workflows/build.yml)
 
 [Presentation](https://docs.google.com/presentation/d/1t9ODW1NnrGIkMBFgzB4vhnYD16Hjo5c5ZqS-1QlF6zY/edit?usp=sharing)
 
